@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=5V Pin=ESP32_Cam-P$4
+Removed Pin From Net: NetName=GND_Cam Pin=ESP32_Cam-P$5
+Added Room: Name=Schematic_PBL5

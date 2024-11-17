@@ -1,0 +1,3 @@
+Added Component: Designator=ESP?(ESP32 WROOM 32 KIT)
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component ESP? ESP32 DEVKIT
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component J? ESP32-CAM

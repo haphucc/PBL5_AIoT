@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP4
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Net Name : Old Net Name=NetL?_2 New Net Name=NetL1_2
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component JP2 LCD 20x4
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component JP4 TFT 1.8 inch

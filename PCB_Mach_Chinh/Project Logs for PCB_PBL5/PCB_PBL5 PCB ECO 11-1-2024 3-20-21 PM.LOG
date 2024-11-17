@@ -1,0 +1,78 @@
+Change Component Designator: OldDesignator=ESP? NewDesignator=ESP1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Added Component: Designator=JP?(JP 1x4 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP 1x8 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP 1x4 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(SM-RES-1206)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=U?(DIP4/W0.3)
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=ESP1-16
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=ESP1-15
+Added Pin To Net: NetName=5V Pin=JP?-1
+Added Pin To Net: NetName=5V Pin=JP?-1
+Added Net: Name=5V
+Added Pin To Net: NetName=12 Pin=ESP1-12
+Added Pin To Net: NetName=12 Pin=JP?-2
+Added Net: Name=12
+Added Pin To Net: NetName=13 Pin=ESP1-13
+Added Pin To Net: NetName=13 Pin=JP?-1
+Added Net: Name=13
+Added Pin To Net: NetName=14 Pin=ESP1-11
+Added Pin To Net: NetName=14 Pin=JP?-3
+Added Net: Name=14
+Added Pin To Net: NetName=25 Pin=ESP1-8
+Added Pin To Net: NetName=25 Pin=JP?-6
+Added Net: Name=25
+Added Pin To Net: NetName=26 Pin=ESP1-9
+Added Pin To Net: NetName=26 Pin=JP?-5
+Added Net: Name=26
+Added Pin To Net: NetName=27 Pin=ESP1-10
+Added Pin To Net: NetName=27 Pin=JP?-4
+Added Net: Name=27
+Added Pin To Net: NetName=32 Pin=ESP1-6
+Added Pin To Net: NetName=32 Pin=JP?-8
+Added Net: Name=32
+Added Pin To Net: NetName=33 Pin=ESP1-7
+Added Pin To Net: NetName=33 Pin=JP?-7
+Added Net: Name=33
+Added Pin To Net: NetName=GND Pin=ESP1-17
+Added Pin To Net: NetName=GND Pin=JP?-2
+Added Pin To Net: NetName=GND Pin=JP?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=RX2 Pin=ESP1-21
+Added Pin To Net: NetName=RX2 Pin=JP?-3
+Added Net: Name=RX2
+Added Pin To Net: NetName=SCL Pin=ESP1-26
+Added Pin To Net: NetName=SCL Pin=JP?-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=ESP1-29
+Added Pin To Net: NetName=SDA Pin=JP?-4
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX2 Pin=ESP1-22
+Added Pin To Net: NetName=TX2 Pin=JP?-2
+Added Net: Name=TX2
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component JP? LCD 20x4
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component JP? Keypad 4x4
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component JP? LCD 20x4
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component R? 1k
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component U? PC817

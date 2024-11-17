@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SDA Pin=ESP32_Cam-P$12
+Removed Pin From Net: NetName=SDA Pin=TFT 1.8 inch-3
+Added Pin To Net: NetName=DATA Pin=ESP32_Cam-P$12
+Added Pin To Net: NetName=DATA Pin=TFT 1.8 inch-3
+Added Net: Name=DATA
+Added Room: Name=Schematic_PBL5

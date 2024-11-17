@@ -1,0 +1,66 @@
+Change Component Comment : Designator=R? Old Comment=1k New Comment=180
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=JP?(JP 1x8 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=L?(LED-5MM-RED)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Component: Designator=R2(SM-RES-1206)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J1-P$9
+Added Pin To Net: NetName=SDA Pin=J1-P$12
+Added Pin To Net: NetName=SDA Pin=JP?-3
+Added Pin To Net: NetName=5V Pin=JP?-8
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=16 Pin=J1-P$7
+Added Pin To Net: NetName=16 Pin=R2-1
+Added Net: Name=16
+Added Pin To Net: NetName=A0 Pin=J1-P$15
+Added Pin To Net: NetName=A0 Pin=JP?-4
+Added Net: Name=A0
+Added Pin To Net: NetName=CS Pin=J1-P$13
+Added Pin To Net: NetName=CS Pin=JP?-6
+Added Net: Name=CS
+Added Pin To Net: NetName=GND_Cam Pin=J1-P$10
+Added Pin To Net: NetName=GND_Cam Pin=JP?-7
+Added Pin To Net: NetName=GND_Cam Pin=U1-3
+Added Net: Name=GND_Cam
+Added Pin To Net: NetName=LED Pin=J1-P$8
+Added Pin To Net: NetName=LED Pin=JP?-1
+Added Net: Name=LED
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=R1-1
+Added Net: Name=NetL?_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-4
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=OPTO Pin=ESP1-19
+Added Pin To Net: NetName=OPTO Pin=L?-1
+Added Net: Name=OPTO
+Added Pin To Net: NetName=RESET Pin=J1-P$11
+Added Pin To Net: NetName=RESET Pin=JP?-5
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCK Pin=J1-P$14
+Added Pin To Net: NetName=SCK Pin=JP?-2
+Added Net: Name=SCK
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component JP1 Keypad 4x4
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component JP3 LCD 20x4
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component JP? TFT 1.8 inch
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component L? LED 5mm
+Added Member To Class: ClassName=Schematic_PBL5 Member=Component R2 180

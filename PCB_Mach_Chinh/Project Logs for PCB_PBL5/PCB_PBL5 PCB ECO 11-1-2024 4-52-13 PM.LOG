@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetL1_2 Pin=R1-1
+Removed Pin From Net: NetName=16 Pin=R2-1
+Change Component Footprint: Designator=R1 Old Footprint=SM-RES-1206 New Footprint=R1/4W
+Change Component Footprint: Designator=R2 Old Footprint=SM-RES-1206 New Footprint=R1/4W
+Change Component Comment : Designator=R1 Old Comment=180 New Comment=220
+Change Component Comment : Designator=R2 Old Comment=180 New Comment=220
+Added Pin To Net: NetName=NetL1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-4
+Added Net: Name=NetR2_1
+Added Room: Name=Schematic_PBL5

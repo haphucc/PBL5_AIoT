@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=4 Pin=ESP32_Cam-P$16
+Added Pin To Net: NetName=4 Pin=R2-2
+Added Net: Name=4
+Added Room: Name=Schematic_PBL5

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=ESP32_Cam-P$1
+Added Pin To Net: NetName=GND Pin=ESP32_Cam-P$5
+Added Room: Name=Schematic_PBL5
