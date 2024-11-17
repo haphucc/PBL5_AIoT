@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C2 Old Footprint=tu hoa 10mm New Footprint=CP1.5/3.4
+Change Component Comment : Designator=C2 Old Comment=220uF New Comment=100uF/50V
+Change component parameters: Designator = "C2" ("C2"); Footprint = "tu hoa 10mm"; UniqueID = "\VPCPDBPJ" ("\VPCPDBPJ")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "1000uF/6,3V - 470uF/16V - 330uF - 25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "220uF/35V - 100uF/50V - 63V - 4,7uF/200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "22uF => 33uF100V - 3,3uF => 4,7uF/250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "2,2uF =>3,3uF/350 - 2,2uF/400V - 1uF/450V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF/35V/50V"; VariantName = "[No Variations]"
+Added Room: Name=Sheet1

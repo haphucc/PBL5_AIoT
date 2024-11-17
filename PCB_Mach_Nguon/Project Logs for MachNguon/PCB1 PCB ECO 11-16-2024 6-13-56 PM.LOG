@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=OUT+ Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=IN+ Pin=C3-2
+Change Component Footprint: Designator=C3 Old Footprint=CN2 New Footprint=tu hoa 10mm
+Change Component Footprint: Designator=C2 Old Footprint=CP1.5/3.4 New Footprint=tu gom
+Change Component Comment : Designator=C3 Old Comment=105-1uF New Comment=220uF
+Change Component Comment : Designator=C2 Old Comment=220uF/35V New Comment=104
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Added Pin To Net: NetName=OUT+ Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=IN+ Pin=C3-1
+Added Member To Class: ClassName=Sheet1 Member=Component C2 220uF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 104
+Added Room: Name=Sheet1

@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=* NewDesignator=Zener
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net_2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 100uF/35V
+Added Member To Class: ClassName=Sheet1 Member=Component C2 220uF/35V
+Added Member To Class: ClassName=Sheet1 Member=Component C3 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component L1 470uH - 3A
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 LED
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R2 330
+Added Member To Class: ClassName=Sheet1 Member=Component T1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component  LM2596ADJ
+Added Member To Class: ClassName=Sheet1 Member=Component Zener
+Added Room: Name=Sheet1

@@ -1,0 +1,4 @@
+Change Component Comment : Designator=L1 Old Comment=470uH - 3A New Comment=47uH - 3A
+Change Component Comment : Designator=LM2596 Old Comment=LM2576-5.0WT New Comment=LM2596-5.0WT
+Change Component Comment : Designator=Zener Old Comment=Zener New Comment=1N5822
+Added Room: Name=Sheet1

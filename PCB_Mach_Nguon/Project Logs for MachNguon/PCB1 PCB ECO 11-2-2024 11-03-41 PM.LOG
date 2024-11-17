@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=IN+ Pin=-1
+Removed Pin From Net: NetName=GND Pin=-3
+Removed Pin From Net: NetName=Net_4 Pin=-4
+Removed Pin From Net: NetName=GND Pin=-5
+Removed Pin From Net: NetName=GND Pin=-6
+Change Component Designator: OldDesignator=T1 NewDesignator=VR
+Added Component: Designator=LM2596(TO170P1016X444X1572-5)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM2576-5.0WT/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2576-5.0WT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM2576-5.0WT/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IN+ Pin=LM2596-1
+Added Pin To Net: NetName=GND Pin=LM2596-3
+Added Pin To Net: NetName=Net_4 Pin=LM2596-4
+Added Pin To Net: NetName=GND Pin=LM2596-5
+Change Net Name : Old Net Name=Net_4 New Net Name=NetLM2596_4
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=LM2596-2
+Added Pin To Net: NetName=NetL1_1 Pin=Zener-2
+Added Net: Name=NetL1_1
+Added Member To Class: ClassName=Sheet1 Member=Component LM2596 LM2576-5.0WT

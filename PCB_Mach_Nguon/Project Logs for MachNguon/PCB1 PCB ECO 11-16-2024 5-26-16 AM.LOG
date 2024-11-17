@@ -1,0 +1,6 @@
+Change Component Comment : Designator=C3 Old Comment=1uF New Comment=105-1uF
+Change Component Comment : Designator=C4 Old Comment=1uF New Comment=105-1uF
+Change Component Comment : Designator=C1 Old Comment=100uF/35V New Comment=100uF/50V
+Change Component Designator: OldDesignator=Zener NewDesignator=Diode Schottky
+Change Net Name : Old Net Name=NetL1_1 New Net Name=NetDiode Schottky_2
+Added Room: Name=Sheet1

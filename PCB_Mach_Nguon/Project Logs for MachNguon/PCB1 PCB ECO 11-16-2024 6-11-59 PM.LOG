@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=IN+ Pin=C2-2
+Change Component Footprint: Designator=C2 Old Footprint=CP1.5/3.4 New Footprint=tu gom
+Change Component Footprint: Designator=C3 Old Footprint=CP1.5/3.4 New Footprint=tu hoa 10mm
+Change Component Comment : Designator=C3 Old Comment=100uF/50V New Comment=220uF
+Change Component Comment : Designator=C2 Old Comment=105-1uF New Comment=104
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CP1.5/3.4"; UniqueID = "\RCMGVDME" ("\RCMGVDME")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004761"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 104 100nF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CP1.5/3.4"; UniqueID = "\MSHDAKTV" ("\MSHDAKTV")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 220uF 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IN+ Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
