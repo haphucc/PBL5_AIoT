@@ -185,7 +185,7 @@ def send_attendance_to_server(name, status):
     Gửi thông tin điểm danh lên web server
     """
     try:
-        url = "http://192.168.1.13:82/esp32_employee_attendance/postdemo.php"
+        url = "http://192.168.1.10:82/esp32_employee_attendance/postdemo.php"
         data = {
             "employee_name": name,
             "status": status
@@ -268,9 +268,9 @@ def run_system():
     try:
         while True:
             if not camera_active:
-                # Chờ tín hiệu ADD_NV từ database
+                # Chờ tín hiệu CHAM_CONG từ database
                 text_data = get_latest_text_data()
-                if text_data == "ADD_NV":
+                if text_data == "CHAM_CONG":
                     camera_active = True
                     last_detection_time = datetime.now()
                     print("Đã bật camera cho phiên làm việc mới")
@@ -317,7 +317,7 @@ def run_system():
                             # time.sleep(5)
                             cv2.destroyAllWindows()
                             load_training_data()
-                            print("Camera đã tắt. Đang chờ tín hiệu ADD_NV mới...")
+                            print("Camera đã tắt. Đang chờ tín hiệu CHAM_CONG mới...")
                             continue
 
             # Chế độ nhận diện bình thường
@@ -338,7 +338,7 @@ def run_system():
                         print("Không phát hiện khuôn mặt trong 40 giây. Tắt camera.")
                         camera_active = False
                         cv2.destroyAllWindows()
-                        print("Camera đã tắt. Đang chờ tín hiệu ADD_NV mới...")
+                        print("Camera đã tắt. Đang chờ tín hiệu CHAM_CONG mới...")
                         continue
 
                 for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodings):
@@ -358,7 +358,7 @@ def run_system():
                             time.sleep(5)
                             camera_active = False
                             cv2.destroyAllWindows()
-                            print("Camera đã tắt. Đang chờ tín hiệu ADD_NV mới...")
+                            print("Camera đã tắt. Đang chờ tín hiệu CHAM_CONG mới...")
                             continue
 
                     top = int(top / scale_factor)
