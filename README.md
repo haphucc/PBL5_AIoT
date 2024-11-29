@@ -14,8 +14,12 @@
   <img src="PCB_Mach_Chinh/mach_chinh_PCB_3D_pbl5.jpg" alt="PCB_3D Mạch chính" width="390">
 </p>
 
-### 2. Mạch nguồn
+### 3. Mạch nguồn
 <p align="center">
   <img src="PCB_Mach_Nguon/mach_nguon_schematic_pbl5.jpg" alt="Schematic Mạch nguồn" width="300">
   <img src="PCB_Mach_Nguon/mach_nguon_PCB_3D_pbl5.jpg" alt="PCB_3D Mạch nguồn" width="370">
 </p>
+
+### 4. Nguyên lý hoạt động
+- Chức năng thêm nhân viên: Thêm vân tay thành công -> ESP32 gửi tín hiệu điều khiển qua PC817 -> ESP32CAM nhận tín hiệu điều khiển và bật khung camera của ESP32CAM để thêm khuôn mặt -> Tắt Camera
+- Chức năng chấm công nhân viên: Quét vân tay thành công -> ESP32 gửi tín hiệu điều khiển qua PC817 -> ESP32CAM nhận tín hiệu điều khiển và bật khung camera của ESP32CAM để quét khuôn mặt -> Chấm công thành công -> Gửi thông tin chấm công (tên, trạng thái, thời gian) lên Web server -> Tắt Camera
