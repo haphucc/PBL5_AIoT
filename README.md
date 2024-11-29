@@ -10,5 +10,5 @@
 
 <p align="center">
   <img src="PCB_Mach_Chinh/mach_chinh_schematic_pbl5.jpg" alt="Schematic Mạch chính" width="300">
-  <img src="PCB_Mach_Chinh/mach_chinh_PCB_3D_pbl5.jpg" alt="PCB_3D Mạch chính" width="300">
+  <img src="PCB_Mach_Chinh/mach_chinh_PCB_3D_pbl5.jpg" alt="PCB_3D Mạch chính" width="350">
 </p>
