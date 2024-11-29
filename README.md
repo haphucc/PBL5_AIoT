@@ -7,3 +7,5 @@
 - Keypad 4x4
 - TFT LCD 1.8 inch
 - Opto PC817, Resistor, LED,...
+![Schematic Mạch chính](https://github.com/haphucc/PBL5_AIoT_ESP32_Attendance_System/blob/main/PCB_Mach_Chinh/mach_chinh_schematic_pbl5.jpg)
+### 2. 
