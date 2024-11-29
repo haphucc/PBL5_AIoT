@@ -17,5 +17,5 @@
 ### 2. Mạch nguồn
 <p align="center">
   <img src="PCB_Mach_Nguon/mach_nguon_schematic_pbl5.jpg" alt="Schematic Mạch nguồn" width="300">
-  <img src="PCB_Mach_Nguon/mach_nguon_PCB_3D_pbl5.jpg" alt="PCB_3D Mạch nguồn" width="390">
+  <img src="PCB_Mach_Nguon/mach_nguon_PCB_3D_pbl5.jpg" alt="PCB_3D Mạch nguồn" width="370">
 </p>
