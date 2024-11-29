@@ -27,6 +27,6 @@
 
 ### 5. Giao diện chấm công
 <p align="center">
-  <img src="htdocs/employee_attendance_view.jpg" alt="employee_attendance_view" width="500">
+  <img src="htdocs/employee_attendance_view.jpg" alt="employee_attendance_view" width="600">
   <img src="htdocs/esp32cam_stream_view.jpg" alt="esp32cam_stream_view" width="370">
 </p>
